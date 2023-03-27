@@ -13,6 +13,7 @@
   <img align="center" alt="Rodrigo-SQL"    height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rodrigo-Uipath" height="40" width="50" src="https://companieslogo.com/img/orig/PATH_BIG-212c4d26.png?t=1649160715.svg">
+  <img align="right"  alt="Rodrigo-Robot" height="200px" width="200px" src="https://www.svgrepo.com/show/22271/robot.svg">
 </div>
 
 ##
